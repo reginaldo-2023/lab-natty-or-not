@@ -12,7 +12,7 @@ Utilizei a "IA do Canva" para criar o ebook, fiz um prompt para que ele crie um 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo como se preparar para o mercado de trabalho,
 
-[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAG0w5-K7-E/m80Q8DuRtwSsS9s9eiKuyw/edit?utm_content=DAG0w5-K7-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/17ykn_neJ1MiUp8VR5atAqWIWXnBJFJb-/view?usp=drive_link)
 
 ## 💭 Reflexão
 Criar este e-book ensina de forma resumida e direta de como se preparar para a transição de carreira.
